@@ -138,5 +138,9 @@ form > a.botão:hover {
     background-color:#49a09d ;
 }
 
+form > a.botão > span {
+    font-size: 0.8em;
+}
+
 
 
